@@ -1,0 +1,19 @@
+# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local config
+local.properties
+
+# Keystore
+*.keystore
+*.jks
+
+# Kotlin / Java cache
+*.class
+*.jar
